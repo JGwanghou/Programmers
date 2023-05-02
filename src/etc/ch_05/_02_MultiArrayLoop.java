@@ -12,6 +12,8 @@ public class _02_MultiArrayLoop {
             }
         }
 
+        System.out.println("sdadsadsa");
+
         // 표 구매 D11 D12
         seats3[3][10] = "__";
         seats3[3][11] = "___";
