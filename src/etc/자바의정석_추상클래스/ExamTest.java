@@ -3,7 +3,7 @@ package etc.자바의정석_추상클래스;
 abstract class Unit{
     int x,y;
     abstract void move(int x, int y);
-    void stop(){}
+    void stop(){} // 추상메서드 아님
 }
 
 class Marine extends Unit{

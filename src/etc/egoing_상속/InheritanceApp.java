@@ -2,6 +2,7 @@ package etc.egoing_상속;
 
 class Cal {
     int v1,v2;
+
     Cal(int v1, int v2){
         System.out.println("Cal init!!!");
         this.v1 = v1; this.v2 = v2;
