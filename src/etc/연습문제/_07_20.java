@@ -9,6 +9,7 @@ package etc.연습문제;
  */
 class Parent1 {
     int x = 100;
+
     void method() {
         System.out.println("Parent Method");
     }
