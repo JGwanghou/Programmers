@@ -1,4 +1,4 @@
-package level0;
+package level0.Day3;
 
 public class _01문자열섞기 {
     public static void main(String[] args) {

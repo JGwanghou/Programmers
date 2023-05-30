@@ -1,4 +1,4 @@
-package level0;
+package level0.Day3;
 
 public class _02문자리스트문자열로변환 {
     public static void main(String[] args) {

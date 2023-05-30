@@ -1,4 +1,4 @@
-package level0;
+package level0.Day3;
 
 public class _03_문자열곱하기 {
 

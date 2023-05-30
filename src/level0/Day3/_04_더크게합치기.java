@@ -1,4 +1,4 @@
-package level0;
+package level0.Day3;
 
 /*
     a	b	result
