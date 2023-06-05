@@ -10,7 +10,14 @@ public class _홀짝에따라값반환 {
     public static int solution(int n) {
         int sum = 0;
         if(n %2 == 1){
-            
+            for (int i = 1; i <= n; i++) {
+                if(i %2 == 1) sum += i;
+            }
+        }
+        if(n %2 == 0){
+            for (int i = 1; i <= n; i++) {
+                if(i %2 == 0) sum += i*i;
+            }
         }
 
         return sum;
