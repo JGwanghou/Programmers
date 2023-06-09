@@ -16,6 +16,7 @@ public class _04 {
 
         return answer = (double) sum / numbers.length;
     }
+
     /*
         스트림 사용
         return Arrays.stream(numbers).average().orElse(0);
