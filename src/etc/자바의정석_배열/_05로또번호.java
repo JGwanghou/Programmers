@@ -4,9 +4,7 @@ public class _05로또번호 {
     public static void main(String[] args) {
         int[] ball = new int[45];
         // 1~45 까지 채운다.
-        for (int i = 0; i < ball.length; i++) {
-            ball[i] = i + 1;
-        }
+        for (int i = 0; i < ball.length; i++) ball[i] = i + 1;
 
         int tmp = 0;
         int j = 0;

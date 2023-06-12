@@ -8,6 +8,7 @@ public class _04 {
         for (int i = 0; i < my_string.length(); i++) {
             answer += arr[i].repeat(n);
         }
+
         return answer;
     }
     public static void main(String[] args) {
